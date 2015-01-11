@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//add script to any object in scene;
 public class Spawner : MonoBehaviour {
 
 	private static GameObject _character;
