@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<characters>
+<character>
+<id>1</id>
+<name>Soldado</name>
+<velocity>10</velocity><!--vai de 0 a 30-->
+<defense>16</defense><!--vai de 0 a 100-->
+<damage>23</damage><!-- vai de 0 a 70-->
+<spawnpoint>1</spawnpoint><!--ou maior-->
+</character>
+<character>
+<id>0</id>
+<name>Soldado2</name>
+<velocity>12</velocity><!--vai de 0 a 30-->
+<defense>11</defense><!--vai de 0 a 100-->
+<damage>25</damage><!-- vai de 0 a 70-->
+<spawnpoint>8</spawnpoint><!--ou maior-->
+</character>
+</characters>
